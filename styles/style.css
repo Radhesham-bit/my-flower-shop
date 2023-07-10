@@ -53,3 +53,205 @@
     height: 800px;
 }
 
+section h2{
+    text-align: center;
+    margin-top: 100px;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    
+}
+
+section p{
+    text-align: center;
+    margin-top: 20px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+
+
+.featured-image{
+   
+}
+
+.featured-image-1{
+   
+}
+
+
+
+
+
+.featured-image-2{
+
+}
+
+.image-2{
+    
+    
+}
+
+.featured-image-3{
+
+}
+
+.image-3{
+    
+}
+
+.support-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    width: 1400px;
+    height: 320px;
+    margin: 0 auto;
+    margin-bottom: 128px;
+
+}
+
+.delivery{
+    text-align: center;
+}
+
+.flowers{
+    text-align: center;
+}
+
+.support{
+    text-align: center;
+}
+
+.deal-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-bottom: 50px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    height: 60vh;
+}
+.deal-color{
+    color: rgb(212, 50, 50);
+}
+
+.hot-deal{
+    text-align: center;
+}
+
+.hot-deal h1{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 20px;
+    
+}
+
+.hot-deal p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+
+.instagram-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 60px;
+}
+
+.latest-deals{
+    background-image:url(../img/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1400px;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-bottom: 80px;
+    border-radius: 5px;
+}
+
+.deal h3{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 5px;
+    
+}
+
+.deal p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.deal input{
+    width: 700px;
+    height: 18px;
+    border-radius: 8px;
+    background: #FFF;
+    padding: 20px;
+
+}
+
+.footer-container{
+    height: 40vh;
+    background: #111010;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.footer-description h1{
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 25px;
+    
+}
+
+.footer-description p{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 15px;    
+    text-align: center;
+    margin-bottom: 25px;
+    
+}
+
+.footer-description small{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400; 
+
+}
+
+.footer-description{
+    text-align: center;
+}
+
+
+
+
